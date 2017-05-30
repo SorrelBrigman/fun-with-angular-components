@@ -1,5 +1,2 @@
 
-angular.module('componentFun', [])
-.component('hello-world', function() {
-
-})
+const app = angular.module('componentFun', [ngRoute]);
